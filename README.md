@@ -41,12 +41,12 @@ NOTE: *use* `align-self` *for aligning individual items*
 
 ### `align-content`
 #### spacing between lines
--`flex-start`: Lines are pushed at the **top** of the container.
--`flex-end`: Lines are pushed at the **bottom** of the container.
--`center`: Lines display at the **center** of the container.
--`space-between`: Lines display with equal spacing **between** them.
--`space-around`: Lines display with equal spacing **around** them.
--`stretch`: Lines are **stretched** to fit the container.
+- `flex-start`: Lines are pushed at the **top** of the container.
+- `flex-end`: Lines are pushed at the **bottom** of the container.
+- `center`: Lines display at the **center** of the container.
+- `space-between`: Lines display with equal spacing **between** them.
+- `space-around`: Lines display with equal spacing **around** them.
+- `stretch`: Lines are **stretched** to fit the container.
 
 ###`order`
 #### manual ordering
