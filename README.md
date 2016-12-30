@@ -60,3 +60,4 @@ manual ordering
 
 > Written with [StackEdit](https://stackedit.io/).
 > Slightly modified content from [Flexbox Froggy](http://flexboxfroggy.com/).
+> Also useful: [CSSTricks Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
