@@ -16,6 +16,7 @@ main axis alignment
 
 ### `align-items`
 cross axis alignment
+
 NOTE: *use* `align-self` *for aligning individual items*
 
 - `flex-start`: Items align to the **top** of the cross axis.
