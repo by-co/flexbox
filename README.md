@@ -5,7 +5,7 @@
 - **cross axis** is a column
 --  **top** on top, **bottom** on bottom
 
-###`justify-content`
+### `justify-content`
 main axis alignment
 
 - `flex-start`: Items align to the **start** of the main axis.
